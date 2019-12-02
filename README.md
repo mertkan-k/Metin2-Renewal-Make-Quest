@@ -20,7 +20,7 @@ Reneval quest reading minisystem for Metin2
 		# cd /home/game/share/locale/turkey/quest
 		# sh make.sh
 		Starting..
-		All quests done; succes: 6, fail 0.
+		All quests are done; succes: 6, fail 0.
 		# 
 
 I hope there are lots of people to give star to this repository :)
