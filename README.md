@@ -26,8 +26,6 @@ Renewal quest reading minisystem for Metin2
 # Screenshots:
 
 https://i.gyazo.com/716f22f8784258197ebd85530cafbea0.png
-https://i.gyazo.com/6e8f88d2939b0592ddc39e0c3ae60636.png
-
 
 I hope there are lots of people to give star to this repository :)
 
