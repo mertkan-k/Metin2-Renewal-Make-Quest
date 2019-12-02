@@ -12,4 +12,4 @@ for q in $(find ./all_quests -name "*.lua" -type f); do
     fi
 done
 
-printf "All quests done; succes: $((x)), fail $((y)).\n"
+printf "All quests are done; succes: $((x)), fail $((y)).\n"
