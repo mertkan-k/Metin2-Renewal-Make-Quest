@@ -1,5 +1,5 @@
 # Metin2-Renewal-Make-Quest
-Reneval quest reading minisystem for Metin2
+Renewal quest reading minisystem for Metin2
 
 # System Operation:
 	When you run make.sh, system automatically run ./qc for all .lua extension files in all_quests direction. So you don't need use quest_list etc.
