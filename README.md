@@ -2,7 +2,7 @@
 Reneval quest reading minisystem for Metin2
 
 # System Operation:
-	When you run make.sh, system automatically run ./qc for all .lua extension files in all_quests direction.
+	When you run make.sh, system automatically run ./qc for all .lua extension files in all_quests direction. So you don't need use quest_list etc.
 	.qc using is silent, that means you don't get any returns from qc file.
 	After all quests reading, system will send you total succes and fail quest numbers.
 
