@@ -1,4 +1,4 @@
-# Metin2-Reneval-Make-Quest
+# Metin2-Renewal-Make-Quest
 Reneval quest reading minisystem for Metin2
 
 # System Operation:
